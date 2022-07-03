@@ -1,1 +1,1 @@
-# codeninja.io
+# codeninja.github.io
